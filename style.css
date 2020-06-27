@@ -1,0 +1,13 @@
+.carousel-item img{
+    object-fit: cover;
+    height: 550px;
+}
+.carousel-caption{
+    top: 50%;
+    bottom: 0;
+}
+.threecontent img {
+    height: 150px;
+    width: 155px;
+    object-fit: cover;
+}
